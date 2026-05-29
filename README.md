@@ -27,7 +27,7 @@ O desenvolvimento foi focado no uso de **HTML5 e CSS3 puros**, com ênfase na se
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone https://valdirneto34.github.io/Projeto-Cordel/
+   git clone https://github.com/valdirneto34/Projeto-Cordel
    ```
 
 ---
